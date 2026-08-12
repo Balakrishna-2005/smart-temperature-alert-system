@@ -1,0 +1,7 @@
+LM35 Temperature Sensor
+          ↓
+      Arduino Uno
+       ↓       ↓
+     LED     Buzzer
+       ↓       ↓
+   Status / Temperature Alert
